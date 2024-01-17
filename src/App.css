@@ -1,0 +1,11 @@
+#root {
+  color: black;
+}
+
+.submenu {
+  display: none;
+}
+
+ul {
+  cursor: pointer;
+}
